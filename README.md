@@ -7,5 +7,5 @@ The instructors during the session was Mr.Shaurya Sinha (a Data Analyst at Jio).
 I enjoyed these 7 days, You can as well. To register for next 7 days bootcamp, visit: www.shapeai.tech
 or follow SHAPEAI on:
 <li><a href="https://in.linkedn.com/company/shapeai"><LinkednIn</a> <li><a href="https://www.instagram.com/shape.ai/?hl=en"><Instagram</a>
-<li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPDA"<YouTu be</a>   
+<li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA"<YouTu be</a>   
 <li><a href="https://github.com/shapeai">GitHub</a>
